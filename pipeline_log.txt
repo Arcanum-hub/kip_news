@@ -1,4 +1,5 @@
-=== Валидация и сборка выпуска: 2026-08-31T06:14:10.982126+00:00 ===
+=== Валидация и сборка выпуска: 2026-09-08T16:09:09.953726+00:00 ===
 Удалена старая папка изображений: D:\SHARE_SERVERS\AGENTS\KIPIA\news_output\images
 Удалён старый news_raw.json
-Итог: 9 статей прошли в выпуск, 0 отбраковано, 0 обрезано по лимиту, 9 с tg-постом. Сохранено: D:\SHARE_SERVERS\AGENTS\KIPIA\news_output\news_raw.json
+Материалов больше max_articles=20, обрезано 3 (самые старые): ['Succession planning: protecting plant knowledge and continui', 'Comparing Industrial PCs and PLCs: A Brief Review of Control', 'How compressed air systems work: A guide to components and e']
+Итог: 20 статей прошли в выпуск, 0 отбраковано, 3 обрезано по лимиту, 20 с tg-постом. Сохранено: D:\SHARE_SERVERS\AGENTS\KIPIA\news_output\news_raw.json
